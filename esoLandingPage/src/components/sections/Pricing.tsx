@@ -63,7 +63,7 @@ export function Pricing() {
                                     </div>
                                     <div>
                                         <p className="text-xs text-muted-foreground font-bold uppercase tracking-wider">Start Date</p>
-                                        <p className="text-xl font-bold text-gray-800">February 8th</p>
+                                        <p className="text-xl font-bold text-gray-800">March 1st</p>
                                     </div>
                                 </motion.div>
 
