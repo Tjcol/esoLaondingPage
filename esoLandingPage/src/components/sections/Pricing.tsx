@@ -141,22 +141,6 @@ export function Pricing() {
                                 </div>
                             </div>
 
-                            <div className="bg-orange-50 p-6 rounded-2xl border border-orange-100 relative overflow-hidden">
-                                <div className="absolute -right-4 -top-4 text-orange-100 opacity-20">
-                                    <Sparkles size={100} />
-                                </div>
-                                <div className="relative z-10 flex gap-4 items-start">
-                                    <Sparkles className="w-6 h-6 text-orange-400 mt-1 flex-shrink-0" fill="currentColor" />
-                                    <div>
-                                        <h3 className="font-bold text-orange-900 text-lg mb-1">Early Bird Bonus</h3>
-                                        <p className="text-orange-800/90 leading-relaxed">
-                                            <strong>25% OFF</strong> for the first 10 participants only. <br />
-                                            <span className="text-sm">Secure your spot before slots run out.</span>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
                             <div className="text-center pt-8 border-t border-gray-100">
                                 <p className="text-sm text-muted-foreground mb-8 max-w-sm mx-auto">
                                     After payment, please send proof of payment via WhatsApp to complete your registration.
